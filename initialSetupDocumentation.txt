@@ -1,0 +1,13 @@
+site folder local:www.binene.com
+site database name: bineneDB
+DBase User name : Root
+DBase USer Password: empty
+Wordpress 4.9.5 Config:
+Site name : Binene.Com
+user name : Asaph
+User password: **jk29x!Lt4tn4H*F8
+
+USERS
+User: Mado
+Psword: TX1tse^!seHlpXBv5iS)vkh@
+
